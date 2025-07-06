@@ -69,7 +69,7 @@ These features mirror how real-world pricing teams analyze SKUs across geography
 - ✅ Discovered actionable insights from real retail data  
 - ✅ Developed a dynamic pricing engine with production-ready logic  
 - ✅ Created a framework that aligns with industry pricing strategies  
-- ✅ Built a solution that can be integrated into e-commerce tools like Shopify, BigCommerce, or ERP systems
+- ✅ Built a dynamic pricing model with potential for integration into e-commerce platforms like Shopify or ERP systems.
 
 ---
 
