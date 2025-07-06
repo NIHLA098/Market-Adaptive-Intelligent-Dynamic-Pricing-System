@@ -23,7 +23,7 @@ In the real world, static pricing models fail to respond to fluctuating market c
 ## 📊 Dataset Used
 
 **Dataset:** [Online Retail Dataset – UCI / Kaggle]  
-A real-world transactional dataset from a UK-based online retailer spanning **December 2010 to December 2011**, used widely in industry projects and analytics challenges.
+A real-world transactional dataset from a UK-based online retailer , used widely in industry projects and analytics challenges.
 
 Key fields include:
 - `InvoiceNo`, `StockCode`, `Description`  
