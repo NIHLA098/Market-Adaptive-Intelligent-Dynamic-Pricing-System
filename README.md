@@ -6,6 +6,8 @@ A real-world machine learning-powered dynamic pricing engine that helps business
 
 ## 🔗 Run in Google Colab
 
+click below link to open 
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17RLMT61Q6YVSyU96I2_7N7xC6e0hHovy?usp=sharing)
 
 ---
